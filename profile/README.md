@@ -14,11 +14,15 @@ Key results (datasets, ontologies, tools for data structuring and data analysis)
 Material Science an Engineering Ontology (MSEO) 
 https://github.com/Mat-O-Lab/MSEO
 - Tools and Ontologies created in Mat-O-Lab should be open source and publicly available
-- We aim to create meaningful metadata for primary experiment data, therefore that raw data in files (Ascii, Images, ....) is referenced by an URI and all metadata in that file and its structure is converted to sematic data by combining it with a methode knowledge representation, a graph. The tabular data is untouched and will not be converted.
+- We aim to create meaningful metadata for primary experiment data, therefore raw data
+ in files (Ascii, Images, ....) is referenced by an URI 
+but all metadata is converted to sematic data.
+ It also includs information on the structure of the raw data file, to enable diggestion of the raw data itself
+. By combining it with a methode knowledge representation, a graph. The tabular data is untouched and will not be converted.
 - Semantic data is to be shared in a decentral dataspace. Data sovereignty and security are primary aspects to be addressed in a practical solution. Mat-O-Lab considers a IDS based solution https://internationaldataspaces.org/
 foremost.
 - Method knowledge graphs have to be constructed by domain experts, therefore we have to provide tools for them to do so.
-mapping between data and method graphs has to be done by domain experts, inherent knwoledge about the specific methode is necessary to do so.!
+mapping between data and method graphs has to be done by domain experts, inherent knowledge about the specific methode is necessary to do so.!
 
 # Networking
 We try to actively connect to
