@@ -22,7 +22,9 @@ mapping between data and method graphs has to be done by domain experts, inheren
 
 # Networking
 We try to actively connect to
+
 - PMD: https://www.materialdigital.de/
 - IOF: https://www.industrialontologies.org/
 - NFDI-MatWerk: https://nfdi-matwerk.de/
+
 and all willing partners
