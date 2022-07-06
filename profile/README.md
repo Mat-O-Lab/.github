@@ -17,12 +17,12 @@ https://github.com/Mat-O-Lab/MSEO
 - We aim to create meaningful metadata for primary experiment data, therefore raw data
  in files (Ascii, Images, ....) is referenced by an URI 
 but all metadata is converted to sematic data.
- It also includs information on the structure of the raw data file, to enable diggestion of the raw data itself
-. By combining it with a methode knowledge representation, a graph. The tabular data is untouched and will not be converted.
+ It also includes information on the structure of the raw data file, to enable digestion of the raw data itself
+. By combining it with a method knowledge representation, a graph. The tabular data is untouched and will not be converted.
 - Semantic data is to be shared in a decentral dataspace. Data sovereignty and security are primary aspects to be addressed in a practical solution. Mat-O-Lab considers a IDS based solution https://internationaldataspaces.org/
 foremost.
-- Method knowledge graphs have to be constructed by domain experts, therefore we have to provide tools for them to do so.
-mapping between data and method graphs has to be done by domain experts, inherent knowledge about the specific methode is necessary to do so.!
+- Method knowledge graphs must be constructed by domain experts; therefore, we must provide tools for them to do so.
+mapping between data and method graphs must be done by domain experts, inherent knowledge about the specific method is necessary to do so.!
 
 # Networking
 We try to actively connect to
